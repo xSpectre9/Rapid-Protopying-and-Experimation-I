@@ -1,0 +1,106 @@
+// "Pranav Edge": "Hardware Edge", "Flip (yes == -1, no == 1)"
+{
+    "edge_led_map": {
+        "0": {"edge":23, "flip":-1},
+        "1": {"edge":22, "flip":-1},
+        "2": {"edge":21, "flip":-1},
+        "3": {"edge":20, "flip":-1},
+        "4": {"edge":19, "flip":-1},
+        "5": {"edge":4, "flip":-1},
+        "6": {"edge":1, "flip":-1},
+        "7": {"edge":26, "flip":-1},
+        "8": {"edge":3, "flip":-1},
+        "9": {"edge":2, "flip":-1},
+        "10": {"edge":25, "flip":-1},
+        "11": {"edge":24, "flip":-1},
+        "12": {"edge":13, "flip":1},
+        "13": {"edge":14, "flip":1},
+        "14": {"edge":15, "flip":1},
+        "15": {"edge":18, "flip":1},
+        "16": {"edge":28, "flip":-1},
+        "17": {"edge":27, "flip":-1},
+        "18": {"edge":0, "flip":-1},
+        "19": {"edge":7, "flip":-1},
+        "20": {"edge":29, "flip":1}, 
+        "21": {"edge":12, "flip":-1},
+        "22": {"edge":5, "flip":-1},
+        "23": {"edge":6, "flip":1},
+        "24": {"edge":11, "flip":-1},
+        "25": {"edge":10, "flip":-1},
+        "26": {"edge":9, "flip":-1},
+        "27": {"edge":8, "flip":-1},
+        "28": {"edge":17, "flip":-1},
+        "29": {"edge":16, "flip":-1}, // first hexagon ends here
+        "30": {"edge":51, "flip":-1}, // second hexagon starts here
+        "31": {"edge":50, "flip":-1},
+        "32": {"edge":49, "flip":-1},
+        "33": {"edge":34, "flip":-1},
+        "34": {"edge":31, "flip":-1},
+        "35": {"edge":54, "flip":-1},
+        "36": {"edge":33, "flip":-1},
+        "37": {"edge":32, "flip":-1},
+        "38": {"edge":53, "flip":-1},
+        "39": {"edge":52, "flip":-1},
+        "40": {"edge":43, "flip":1},
+        "41": {"edge":44, "flip":1},
+        "42": {"edge":45, "flip":1}, 
+        "43": {"edge":48, "flip":1},
+        "44": {"edge":56, "flip":-1},
+        "45": {"edge":55, "flip":-1},
+        "46": {"edge":30, "flip":-1},
+        "47": {"edge":37, "flip":-1},
+        "48": {"edge":57, "flip":1},
+        "49": {"edge":42, "flip":-1},
+        "50": {"edge":35, "flip":-1},
+        "51": {"edge":36, "flip":1},
+        "52": {"edge":41, "flip":-1},
+        "53": {"edge":40, "flip":-1},
+        "54": {"edge":39, "flip":-1},
+        "55": {"edge":38, "flip":-1},
+        "56": {"edge":47, "flip":-1},
+        "57": {"edge":46, "flip":-1}, // hexagon 2 ends here
+        "58": {"edge":77, "flip":-1}, // hexagon 3 starts here
+        "59": {"edge":76, "flip":-1},
+        "60": {"edge":75, "flip":-1},
+        "61": {"edge":74, "flip":-1},
+        "62": {"edge":59, "flip":-1},
+        "63": {"edge":80, "flip":-1},
+        "64": {"edge":79, "flip":-1},
+        "65": {"edge":78, "flip":-1},
+        "66": {"edge":68, "flip":1},
+        "67": {"edge":69, "flip":1},
+        "68": {"edge":70, "flip":1},
+        "69": {"edge":73, "flip":1},
+        "70": {"edge":82, "flip":-1},
+        "71": {"edge":81, "flip":-1},
+        "72": {"edge":58, "flip":-1},
+        "73": {"edge":62, "flip":-1},
+        "74": {"edge":83, "flip":1},
+        "75": {"edge":67, "flip":-1},
+        "76": {"edge":60, "flip":-1},
+        "77": {"edge":61, "flip":1},
+        "78": {"edge":66, "flip":-1},
+        "79": {"edge":65, "flip":-1},
+        "80": {"edge":64, "flip":-1},
+        "81": {"edge":63, "flip":-1},
+        "82": {"edge":72, "flip":-1},
+        "83": {"edge":71, "flip":-1}
+    }
+}
+
+// arr = [1260 0s]
+// for map in json:
+//     start = map.start
+//     end = map.end
+//     if flip == -1:
+//         start,end = end,start-1
+    
+//     counter = 0
+//     for i in range(start,end,flip):
+//         arr[counter] = i
+
+
+// arr = []
+// jsonarray=[]
+// def map():
+//     newarr[arr[i]] = json[i]

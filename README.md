@@ -1,6 +1,6 @@
 # Rapid-Protopying-and-Experimation-I
 
-This is a code repository worked on by me as part of the RPE-1 ISM.
+This is a code repository for the communication layer as part of the RPE-1 ISM.
 There are 3 main folders in this repository:
 
 1. Archive:

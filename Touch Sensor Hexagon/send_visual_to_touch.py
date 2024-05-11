@@ -1,3 +1,4 @@
+# This is the main file I am running. It connects to led-graph-mono's docker
 import sacn
 import time
 import threading

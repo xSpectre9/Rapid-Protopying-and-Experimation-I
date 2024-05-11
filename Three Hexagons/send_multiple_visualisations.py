@@ -1,3 +1,5 @@
+# This is the main file that I am running. It connects to led-graph-mono's docker.
+
 import time
 import socket
 import json

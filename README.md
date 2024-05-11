@@ -1,4 +1,4 @@
-# Rapid-Protopying-and-Experimation-I
+# Rapid-Protopying-and-Experimation-I // Spring 2024
 
 This is a code repository for the communication layer as part of the RPE-1 ISM.
 There are 3 main folders in this repository:
